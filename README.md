@@ -1,18 +1,21 @@
-# 💫 About Me:
-Hi there, I'm Sumegh P. 👋<br>Independent Researcher & Practitioner Socio-technical Systems | Digital Humanities | Critical EdTech<br><br>🔍 Core Focus: Investigating the frictions between algorithmic logic and pedagogical practice.<br><br>🌍 Impact: 7+ years of field experience scaling pedagogical innovations in the Global South.<br><br>🏗️ Infrastructure: Researching the ethical deployment of Digital Public Infrastructure (DPI).<br><br>📊 Current Projects:<br><br>Socio-Technical Network Analysis using Neo4j and Python.<br><br>Digital Micro-credentials for teacher professional development.<br><br>✍️ Published In: Education Sciences, Taylor & Francis, and British Journal of Educational Technology.<br><br>🎓 Teaching: Machine Learning & Algorithmic Foundations.<br><br>📫 Reach Out: sumegh.connect@gmail.com
+# Sumegh P
 
+Independent researcher working where education, technology and culture meet. I study how learners and teachers actually use digital tools, lately with a focus on AI and how learners think, and I build small tools in Python and JavaScript to support that research.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_sumegh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_sumegh) 
+### What I work on
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumeghp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumeghp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeghp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **EdTech research and evaluation.** 7+ years of field research and program evaluation in Indian schools, including the multi-state evaluation of the Integrating Technology in Education (ITE) program with TISS and Tata Trusts, and an assessment of Google's education tools in classrooms.
+- **Teacher communities and networks.** Analysing how teachers learn from each other online, using network analysis (Neo4j, Python) and a browser-based WhatsApp chat analyser I built for this.
+- **Digital humanities.** Computational approaches to culture, creativity and heritage, such as pose analysis in Hindi cinema.
 
----
-[![](https://visitcount.itsvg.in/api?id=sumeghp&icon=0&color=0)](https://visitcount.itsvg.in)
+### Publications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Work in *Education Sciences*, the *British Journal of Educational Technology* and Taylor & Francis journals. Full list on [ORCID](https://orcid.org/0000-0003-0709-2174).
+
+### Tools I use
+
+Python (pandas, NumPy, SciPy, scikit-learn), R, Neo4j, SQL and MongoDB, JavaScript/TypeScript, Django.
+
+### Contact
+
+sumegh.connect@gmail.com · [ORCID](https://orcid.org/0000-0003-0709-2174)
